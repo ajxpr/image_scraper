@@ -50,3 +50,69 @@ INFO:werkzeug:127.0.0.1 - - [27/May/2023 20:38:58] "GET /static/css/main.css HTT
 INFO:werkzeug:127.0.0.1 - - [27/May/2023 20:38:58] "GET /static/css/style.css HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [27/May/2023 20:38:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 INFO:werkzeug:127.0.0.1 - - [27/May/2023 20:39:21] "POST /review HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.8:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:53:03] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:53:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:53:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.8:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:54:21] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:54:22] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:54:22] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:54:22] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:54:23] "GET /review HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.8:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:06] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:07] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:10] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:10] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:11] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:11] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:11] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:12] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:12] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:12] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:56:12] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:41] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:42] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:43] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:43] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:43] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:43] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:43] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:43] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:43] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:43] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:44] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:44] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:44] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:44] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:44] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:44] "GET /review HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.8:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:58:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:53] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:53] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:53] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:53] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:53] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:53] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2023 13:59:54] "GET /review HTTP/1.1" 200 -
