@@ -1,5 +1,5 @@
 <h1 aligin = "center">IMAGE SCRAPPER</h1>
-<h3 aligin = "center">Made by: <p>AKSHAJ PIRI (@ajxpr)</p>[https://github.com/ajxpr]</h3>
+<h3 aligin = "center">Made by: <p>AKSHAJ PIRI [@ajxpr](https://github.com/ajxpr)</p></h3>
 
 
 <p>
